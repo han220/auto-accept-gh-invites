@@ -1,0 +1,1 @@
+# auto-accept-gh-invites
